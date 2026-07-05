@@ -37,9 +37,16 @@ Seorang profesional berlatar belakang Fisika dengan kompetensi mendalam di bidan
 ### 🎓 **Pendidikan & Sertifikasi Pendukung**
 * **Sarjana Fisika (Bachelor of Physics)** — Universitas Andalas
   * *Fokus Analitis:* Melatih penalaran logika matematis, eksperimen laboratorium berakurasi tinggi, pemrosesan sinyal/data eksperimen, dan penulisan dokumentasi teknis peer-reviewed.
-* **Cloud Computing Specialist (AWS)** — *Ongoing*
+* **Cloud Computing Specialist (AWS)** — *Orbit Future Academy*
   * Mempelajari manajemen identitas (AWS IAM), keamanan infrastruktur cloud, dan optimasi biaya *billing* yang krusial untuk arsitektur *deployment* model AI.
-
+* **Data Science & Machine Learning Bootcamp** — Dibimbing.id (Remote)
+  * **End-to-End Data Pipeline:** Mengelola struktur data kompleks dan menerapkan logika efisien menggunakan Python (OOP, Lambda Functions) di lingkungan Google Colab.
+  * **Statistical Accuracy & Analysis:** Melakukan analisis statistik deskriptif, interpretasi distribusi, dan Pengujian Hipotesis (T-test, P-value, ANOVA) untuk pengambilan keputusan berbasis data.
+  * **Enhanced Data Processing:** Mempercepat pengumpulan data dari berbagai sumber (API, Web Scraping, SQL/CSV) serta pembersihan data intensif menggunakan Pandas & NumPy untuk menangani *outliers* dan *missing data*.
+  * **Exploratory Data Analysis (EDA):** Menemukan pola tersembunyi dan pengetahuan bisnis melalui analisis bivariat, agregasi berbasis kelompok, dan *cross-tabulation*.
+  * **Data Storytelling:** Mentransformasi temuan teknis menjadi wawasan yang dapat ditindaklanjuti menggunakan Matplotlib dan Seaborn untuk visualisasi yang berdampak bagi pemangku kepentingan.
+  * **Data Science Project:** Mengembangkan alur kerja analisis data komprehensif, menjembatani kesenjangan antara dataset mentah dan wawasan bisnis strategis melalui EDA terstruktur serta menerapkan fundamental *Machine Learning* untuk pemodelan prediktif.
+  * **Portofolio:** [bit.ly/Proyek_Data-Science](https://bit.ly/Proyek_Data-Science)
 ---
 
 ### 🌐 **Hubungi Saya**
